@@ -1,1 +1,1 @@
-link: https://github.com/RuZari01/valentines-card
+link: https://ruzari01.github.io/valentines-card/
